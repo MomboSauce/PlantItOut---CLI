@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.editor.closeOnFileDelete": true,
+		"workbench.tree.renderIndentGuides": "always",
+		"screencastMode.verticalOffset": 10,
+		"explorer.compactFolders": false,
+		"explorer.incrementalNaming": "smart",
+		"terminal.integrated.altClickMovesCursor": true,
+		"terminal.integrated.defaultProfile.linux": "bash",
+		"vscode-erb-beautify.keepBlankLines": 1,
+		"gitlens.currentLine.enabled": false,
+		"redhat.telemetry.enabled": false,
+		"emmet.includeLanguages": {
+			"erb": "html"
+		},
+		"files.associations": {
+			"*.html.erb": "erb"
+		}
+	}
+}
